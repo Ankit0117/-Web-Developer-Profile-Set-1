@@ -1,2 +1,2 @@
-# LGM-TASK-2
-letsgrowmore internship  task 2
+# LGM-TASK-1
+letsgrowmore internship  task 1
